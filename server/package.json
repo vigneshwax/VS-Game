@@ -1,0 +1,15 @@
+{
+  "name": "rps-arena-server",
+  "version": "1.0.0",
+  "description": "Real-time Authoritative Rock Paper Scissors Backend with WebSockets and Live Chat",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": ["rock-paper-scissors", "socketio", "multiplayer", "realtime", "game"],
+  "author": "RPS Arena Team",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RPS Arena",
+  "description": "Real-time multiplayer Rock Paper Scissors with private rooms, authorative game rounds, and live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
